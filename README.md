@@ -23,4 +23,4 @@
 Для запуска проекта необходимо установить следующие зависимости:
 
 ```bash
-pip install torch sklearn pandas matplotlib seaborn
+pip install torch sklearn pandas matplotlib seaborn transformers tokenizer
